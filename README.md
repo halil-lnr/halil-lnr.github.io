@@ -1,3 +1,3 @@
 # hll-krms.github.io
 
-To view my page click here -> [https://hll-krms.github.io](https://hll-krms.github.io)
+To view my page click here -> [https://halil-lnr.github.io](https://halil-lnr.github.io)
