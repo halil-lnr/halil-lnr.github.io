@@ -1,3 +1,2 @@
-# halil-lnr.github.io
-
-To view my page click here -> [https://halil-lnr.github.io](https://halil-lnr.github.io)
+*GitHub Pages*
+To view the page click here -> [https://halil-lnr.github.io](https://halil-lnr.github.io)
